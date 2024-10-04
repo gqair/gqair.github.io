@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://gqair.github.io/owW/sitemap.owW.gz
